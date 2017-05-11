@@ -1,7 +1,6 @@
 ### Home session day  repo
 
-Contains the codes for the a program that reverses a string and one that performs string splosion.
-It also contains a web clone.
+Contains the codes for the code labs and OOP
 
 # Testing
 
